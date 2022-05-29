@@ -2,12 +2,7 @@ import React, { useState } from 'react'
 import { AddCategory } from './components/AddCategory';
 import GifGrid from './components/GifGrid';
 
-/*add 1*/
-/*add 2*/
 
-/*commit 1*/
-/*commit 2*/
-/*commit 3*/
 
 const GifExpertApp = () => {
 
